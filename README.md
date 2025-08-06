@@ -19,8 +19,8 @@ This repository showcases real-world tooling used in SOC environments, blue team
 | Script Name         | Description                                  | Status         |
 |--------------------|----------------------------------------------|----------------|
 | `hello.py`          | Environment setup confirmation               | ✅ Completed    |
-| `log_parser.py`     | Parses auth logs to detect login anomalies   | 🛠️ In progress |
-| `port_scanner.py`   | TCP port scanner using sockets               | ⏳ Planned      |
+| `log_parser.py`     | Parses auth logs to detect login anomalies   | ✅ Completed  |
+| `port_scanner.py`   | TCP port scanner using sockets               | 🛠️ In progress  |
 | `alert_trigger.py`  | Real-time alert on suspicious log entries    | ⏳ Planned      |
 | `auto_blocker.py`   | IP blocker based on brute-force detection    | ⏳ Planned      |
 
