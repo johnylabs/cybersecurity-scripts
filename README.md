@@ -1,53 +1,40 @@
-# 🛡️ Cybersecurity Scripts in Python
+# 🛡️ Cybersecurity Scripts Toolkit
 
-Practical Python scripts for log analysis, threat detection, and automation.  
-This repository showcases real-world tooling used in SOC environments, blue teaming, and basic incident response workflows.
+![Lab Tested](https://img.shields.io/badge/Lab-Tested-green)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
----
-
-## 📌 Key Objectives
-
-- 🔁 Automate repetitive security workflows
-- 📊 Parse and analyze logs for suspicious behavior
-- 🧪 Build lightweight tools for reconnaissance and defense
-- 🧰 Demonstrate scripting capability in operational security
+Practical Python tools for log analysis, threat detection, and automation.  
+Part of my [Home SOC Lab](https://github.com/yourusername/home-soc-lab-flump-wazuh) portfolio — used in blue-team, SOC, and basic incident response workflows.
 
 ---
 
-## 📂 Script Index
+## Key Objectives
+
+- Automate repetitive security workflows
+- Parse and analyze logs for suspicious behavior
+- Build lightweight tools for reconnaissance and defense
+- Demonstrate scripting capability in operational security
+
+---
+
+## Script Index
 
 | Script Name         | Description                                  | Status         |
 |--------------------|----------------------------------------------|----------------|
 | `hello.py`          | Environment setup confirmation               | ✅ Completed    |
-| `log_parser.py`     | Parses auth logs to detect login anomalies   | ✅ Completed  |
-| `port_scanner.py`   | TCP port scanner using sockets               | 🛠️ In progress  |
+| `log_parser.py`     | Parses auth logs to detect login anomalies   | ✅ Completed    |
+| `port_scanner.py`   | TCP port scanner using sockets               | 🛠️ In progress |
 | `alert_trigger.py`  | Real-time alert on suspicious log entries    | ⏳ Planned      |
 | `auto_blocker.py`   | IP blocker based on brute-force detection    | ⏳ Planned      |
 
 ---
 
-## 🧠 Capabilities Demonstrated
+## Capabilities Demonstrated
 
-- ✅ File I/O and structured log parsing
-- ✅ Modular scripting and basic CLI handling
-- 🧩 Regex for pattern detection (coming up)
-- 📡 Socket-based scanning (next milestone)
-- 🛡️ Defensive automation via IP rules or alerts
-
----
-
-## 🚀 Next Steps
-
-- Finalize brute-force detection pipeline
-- Add notification trigger via webhook or email
-- Expand to work with JSON/syslog formats
-- Test tools in local honeypot or lab VM
-
----
-
-## 🤝 Contribution & Collaboration
-
-This project is solo-built and open to feedback, improvements, or feature ideas.  
-Focus is on **practical, operational tooling** — not academic samples.
+- File I/O and structured log parsing
+- Modular scripting and CLI argument handling
+- Regex for pattern detection *(upcoming)*
+- Socket-based scanning *(in development)*
+- Defensive automation via IP rules or alerts
 
 ---
