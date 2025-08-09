@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 Practical Python tools for log analysis, threat detection, and automation.  
-Part of my [Home SOC Lab](https://github.com/johnylabs/home-soc-lab-splunk-wazuh) portfolio — used in blue-team, SOC, and basic incident response workflows.
+Part of my [Home SOC Lab](https://github.com/johnylabs/home-soc-lab-splunk-wazuh) portfolio... used in blue team, SOC, and basic incident response workflows.
 
 ---
 
